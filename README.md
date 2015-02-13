@@ -8,7 +8,7 @@ Includes the Difference Between Auto-Correlation Operators (DACO) proposed in th
 
     A time series kernel for action recognition
     Adrien Gaidon, Zaid Harchaoui, Cordelia Schmid,
-    BMVC, 2013
+    BMVC, 2011,
     https://hal.inria.fr/inria-00613089v2
 
 
