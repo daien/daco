@@ -11,6 +11,8 @@ Includes the Difference Between Auto-Correlation Operators (DACO) proposed in th
     BMVC, 2011,
     https://hal.inria.fr/inria-00613089v2
 
+Requires the [ekovof](https://github.com/daien/ekovof) package.
+
 
 ## Author
 
